@@ -46,6 +46,9 @@ export default {
     max-width: var(--max-width);
     margin: 0 auto;
 
+    color: var(--chocolat);
+
+
 }
 
 .container-contact {

@@ -63,6 +63,9 @@ export default {
   padding: 20px;
 
 }
+.container h1{
+    color: var(--chocolat);
+}
 
 #article_container {
     height: auto;
@@ -94,8 +97,6 @@ export default {
 }
 
 
-
-
 h3 {
     font-size: 1.125rem;
     font-weight: 600;
@@ -105,9 +106,7 @@ h3 {
 }
 
 p {
-    font-family: 'PT Serif', serif;
     font-size: 1.125rem;
-    color: #626a73;
     text-align: center;
     line-height: 36px;
 }

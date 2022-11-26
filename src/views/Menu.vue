@@ -35,6 +35,7 @@ export default {
     background-color: var(--blanc);
     height: auto;
     padding: 15px;
+    color: var(--chocolat);
 
 }
 
