@@ -1,0 +1,51 @@
+[
+{
+    "id":1,
+    "nom":"CLASSIC RED VELVET",
+    "prix":"1000 ",
+    "description":"I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+    "image":"images/1.webp"
+
+},
+{
+    "id":2,
+    "nom":"CHOCOLATE VANILA",
+    "prix":"1500 ",
+    "description":"I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+    "image":"images/2.webp"
+
+},
+{
+    "id":3,
+    "nom":"DOUBLE CHOCOLATE",
+    "prix":"2000 ",
+    "description":"I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+    "image":"images/3.webp"
+
+},
+{
+    "id":4,
+    "nom":"GLUTEN-FREE RED VELVET",
+    "prix":"500 ",
+    "description":"I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+    "image":"images/4.webp"
+
+},
+{
+    "id":5,
+    "nom":"SUGAR-FREE CHOCOLATE VANILA",
+    "prix":"600 ",
+    "description":"I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+    "image":"images/5.webp"
+
+},
+{
+    "id":6,
+    "nom":"SUGAR-FREE DOUBLE CHOCOLATE",
+    "prix":"900 ",
+    "description":"I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+    "image":"images/6.webp"
+
+}
+
+]

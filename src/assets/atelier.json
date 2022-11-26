@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "nom":"CUPCAKE MASTER",
+        "prix":"1000 ",
+        "heure":"3",
+        "image":"images/atelier1.webp"
+    
+    },
+    {
+        "id":2,
+        "nom":"BAKING",
+        "prix":"1000 ",
+        "heure":"3",
+        "image":"images/atelier3.webp"
+    
+    },
+    {
+        "id":2,
+        "nom":"FROSTING",
+        "prix":"1000 ",
+        "heure":"3",
+        "image":"images/atelier2.webp"
+    
+    }
+    
+    ]
