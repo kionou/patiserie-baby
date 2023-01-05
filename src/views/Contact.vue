@@ -7,10 +7,10 @@
                     <div class="right">
                         <h2>Contact Us</h2>
                         <p>
-                            500 Terry Francois Street, San Francisco, CA 94158
+                            Abidjan-macory rue de commerce
                         </p>
-                        <p>info@mysite.com \\ 123-456-7890 </p>
-                        <p>We want to hear from you, write us:</p>
+                        <p>babypatesserie@gmail.com \\ 07-09-10-23-45</p>
+                        <p>Nous voulons avoir de vos nouvelles, écrivez-nous:</p>
                         <input type="text" class="field" placeholder="Your Name">
                         <input type="text" class="field" placeholder="Your Email">
                         <input type="text" class="field" placeholder="Phone">
